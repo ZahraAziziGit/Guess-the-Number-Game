@@ -31,10 +31,10 @@ public class GuessGame {
             guessp1 = p1.number;
             System.out.println("Play one guessed " + guessp1);
 
-            guessp2 = p1.number;
+            guessp2 = p2.number;
             System.out.println("Play two guessed " + guessp2);
 
-            guessp3 = p1.number;
+            guessp3 = p3.number;
             System.out.println("Play three guessed " + guessp3);
 
             if (guessp1 == targetNumber) {
