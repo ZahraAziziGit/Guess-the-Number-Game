@@ -6,4 +6,3 @@ public class GameLauncher {
         game.startGame();
         }
     }
-
